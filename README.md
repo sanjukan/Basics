@@ -1,2 +1,2 @@
 # CS3704 SE Basics Workshop
-Hello!
+Hello! Update: Fri Aug 25 13:37:03 EDT 2023
